@@ -1,0 +1,48 @@
+True  
+True 
+False 
+False
+False  
+True 
+False
+True 
+False 
+False  
+True  
+True                                                                            
+True  
+True 
+False 
+False  
+True 
+False  
+True 
+False  
+True 
+False  
+True 
+False                                                                                            
+False  
+True 
+False 
+False 
+False 
+False 
+False 
+False 
+False 
+False]
+
+started feature selection 1520013311.44                                                                                                                            Selector ranking:  [1 1 8 8 6 1 4 1 5 7 1 1 1 1 2 5 1 2 1 4 1 5 1 3 3 1 7 8 7 3 2 6 6 4]                                                                           Number of Features selected:  13                                                                                
+
+Support Vector:  
+[True True False False False  True False  True False False  True  True True False False  True False  True False  True False  True alse False  True False False False False False False                                                                                          
+
+RMSE, MAE, MRE (all): 7.71541297744 6.16751513701 0.431879378511                                                                                                   
+
+RMSE, MAE, MRE (24 best): 10.1216597208 7.95254958819 0.472093484042                                                                                               [(18.54, 16.7573419739987), (15.88, 16.5514223447235), (20.32, 16.605367493248558), (30.24, 15.649499326457766), (8.24, 17.36518312344773), (37.12, 15.956864243783992), (11.46, 16.454637532224886), (10.26, 16.450068421144458), (17.58, 16.737478217068706), (22.22, 16.084963092413567), (19.74, 18.057582164394738), (12.94, 17.975220501624555), (29.32, 18.392567945920057), (11.42, 18.130654594452885), (36.36, 16.653452514220866), (4.26, 18.228723864954382)] 
+
+
+
+Support Vector:  
+[ 

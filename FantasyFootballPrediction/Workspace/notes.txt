@@ -1,0 +1,13 @@
+To Complete:
+- Exploratory Statistics/Graphs on NFL data
+- Keras Nerual Net Implementation
+- TensorFlow Neural Net Implementation
+- Application of alternative ML/DL methods/kernels
+
+Creating Exploratory Statistics:
+
+Running Keras Neural Network:
+
+Running TensorFlow Neural Network:
+
+Running Alternative ML Programs:
