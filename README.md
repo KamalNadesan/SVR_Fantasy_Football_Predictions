@@ -9,6 +9,7 @@ This API can be found at https://github.com/BurntSushi/nflgame
 Basic setup: This project uses python 2.7. Download and instructions for python can be found at https://www.python.org/ .
 
 Installing dependencies:
+
 $ sudo apt-get install pip
 $ pip install --upgrade python
 $ sudo pip install numpy
