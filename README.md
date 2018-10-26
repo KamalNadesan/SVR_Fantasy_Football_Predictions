@@ -9,6 +9,7 @@ This API can be found at https://github.com/BurntSushi/nflgame
 Basic setup: This project uses python 2.7. Download and instructions for python can be found at https://www.python.org/ .
 
 Installing dependencies:
+
 $ sudo apt-get install pip
 
 $ pip install --upgrade python
@@ -28,6 +29,7 @@ $ pip install nflgame
 $ pip install jupyter
 
 The following commands update the datasets used for machine learning from nflgame:
+
 $ sudo nflgame-update-players
 
 $ python get_data.py
@@ -35,5 +37,7 @@ $ python get_data.py
 $ python create_datasets.py
 
 The following commands can be used to generate predictions for the data. Models is the SVM/Linear Regression Model:
+
 $ python neural_net.py
+
 $ python models.py
